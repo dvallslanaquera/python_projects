@@ -1,7 +1,9 @@
 # David Valls Portfolio
 Welcome to my personal portfolio. Here you can find some scripts showing a portion of the last projects I've been carrying out. 
 
-## [Personal Resume]()
+## Personal Resume:
+[English version](https://github.com/dvallslanaquera/python_projects/blob/master/images/David%20Valls%20Lan%C3%A0quera%20-%20Resume.pdf)
+[日本語版]()
 ## Project 1: [House Sale Price Prediction](https://github.com/dvallslanaquera/house_sale_prediction/blob/master/House%20Prices%20(definitive%20edition).ipynb)
 ![](https://github.com/dvallslanaquera/python_projects/blob/master/images/housesbanner.png)
 * Thorough preprocess steps explained with detail were we managed to clean all missing values, outliers and skewness using cutting-edge techniques such as Yeo-Johnson Power Transformation.
