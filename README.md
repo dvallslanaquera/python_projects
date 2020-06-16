@@ -8,3 +8,4 @@ Welcome to my personal portfolio. Here you can find some scripts showing a porti
 * **Stacked predictive model** with prompts the average of three tunned models: XGBoots, LightGBM and Gradient Booster.
 * Final **RMSE of 0.1139** (std = 0.0053). The result has been cross-validated with a 10-fold Cross Validation algorithm.  
 
+## Project 2: 
