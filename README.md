@@ -1,5 +1,6 @@
 # David Valls Portfolio
 Welcome to my personal portfolio. Here you can find some scripts showing a portion of the last projects I've been carrying out. 
+You can explore the different projects by clicking on any hyperlink below.
 
 ## Personal Resume:
 * [**English version**](https://github.com/dvallslanaquera/python_projects/blob/master/images/David%20Valls%20Lan%C3%A0quera%20-%20Resume.pdf)
