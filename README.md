@@ -12,4 +12,8 @@ You can explore the different projects by clicking on any hyperlink below.
 * **Stacked predictive model** with prompts the average of three tunned models: XGBoots, LightGBM and Gradient Booster.
 * Final **RMSE of 0.1139** (std = 0.0053). The result has been cross-validated with a 10-fold Cross Validation algorithm.  
 
-## Project 2: 
+## Project 2: [E-commerce RFM analysis](https://github.com/dvallslanaquera/ecommerce_rfm/blob/master/e-commerce-clustering-rfm-analysis.ipynb)
+![](https://github.com/dvallslanaquera/python_projects/blob/master/images/worldmappng.png)
+* Comprehensive EDA and feature engineering preprocessing
+* PCA dimensionality reduction applied before a k-means clustering for high-dimensional data
+* RFM analysis created from scratch
